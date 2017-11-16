@@ -1,5 +1,6 @@
 import time
 import mechanicalsoup
+#enter ID
 your_id = ""
 your_password = ""
 browser = mechanicalsoup.Browser()
