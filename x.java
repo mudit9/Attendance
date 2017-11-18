@@ -9,7 +9,7 @@ public class x
      {Random ran = new Random();
 int xac = ran.nextInt(2);
 System.out.println(xac);
-}
+ }
 }
 
 
